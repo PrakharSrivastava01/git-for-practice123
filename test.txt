@@ -1,0 +1,1 @@
+Hi, This file will be pushed to remote for checking the integration of Git with jira
