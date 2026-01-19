@@ -1,0 +1,5 @@
+uvicorn
+FastAPI
+psutil
+requests
+boto3
